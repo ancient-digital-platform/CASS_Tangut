@@ -1,6 +1,5 @@
 # Tangut Character Recognition Models
-
-This repository contains deep learning models for Tangut (Western Xia) character recognition.
+This repository contains deep learning models for Tangut (Western Xia) character detection and recognition.
 
 ## Dataset
 
@@ -107,20 +106,20 @@ The training scripts calculate the following metrics:
 - **Top-k Accuracy**: Top-5 prediction accuracy
 
 
-## Dataset Citation
-
-If you use this dataset in your research, please cite:
+## Citation
+If you find this repository useful for your research, please cite:
+```bibtex
+@misc{cass_tangut_2026,
+  title={CASS-Tangut: A Dataset and Benchmark for Tangut Character Recognition},
+  author={Xue, Siyuan and Liu, Peixin and Yu Jingsong and Sun, Bojun and Zhang, Yongwei},
+  year={2026},
+  note={Dataset and code available at https://github.com/ancient-digital-platform/CASS_Tangut}
+}
 ```
-Dataset DOI: https://www.scidb.cn/anonymous/SVJaUnpl
-Dataset Name: Enhanced Tangut Character Recognition Dataset
-Total Classes: 6,212 Tangut Characters
-```
-
 ## License
 
 Please refer to the dataset source for licensing information.
 
 ## Contact
-
 For questions about the dataset or models, please refer to the dataset DOI page for contact information.
-# CASS_Tangut
+
