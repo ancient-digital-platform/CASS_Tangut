@@ -1,4 +1,3 @@
-✅ 推荐最终版本（直接用🔥）
 <p align="center">
   <img src="logo.png" width="200">
 </p>
