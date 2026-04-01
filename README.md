@@ -1,6 +1,24 @@
-# Tangut Character Recognition Models
-This repository contains deep learning models for Tangut (Western Xia) character detection and recognition.
+<p align="center">
+  <img src="assets/logo.png" width="200">
+</p>
 
+<p align="center">
+  🌐 <a href="[https://your-platform-url.com](http://82.157.7.206:8095/)">Tangut Digital Platform</a>
+</p>
+
+<h1 align="center">Tangut Character Recognition Models</h1>
+
+<p align="center">
+  📜 A Large-scale Dataset for Tangut Character Detection and Recognition
+</p>
+
+<p align="center">
+  🔍 Detection | 🧠 Recognition | 📊 Benchmark
+</p>
+
+---
+
+This repository contains deep learning models for Tangut (Western Xia) character detection and recognition.
 ### Dataset Description
 - **Character Classes**: 6,212 Tangut characters
 - **Format**: Enhanced image dataset for character recognition
