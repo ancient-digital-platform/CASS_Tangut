@@ -1,11 +1,6 @@
 # Tangut Character Recognition Models
 This repository contains deep learning models for Tangut (Western Xia) character detection and recognition.
 
-## Dataset
-
-The dataset used for training and testing these models is available at:
-**DOI**: https://www.scidb.cn/anonymous/SVJaUnpl
-
 ### Dataset Description
 - **Character Classes**: 6,212 Tangut characters
 - **Format**: Enhanced image dataset for character recognition
@@ -16,7 +11,7 @@ The dataset used for training and testing these models is available at:
 
 ### Download and Extract Dataset
 ```bash
-# Download the dataset from the DOI link above
+# Download the dataset from the DOI link (The dataset is currently under restricted access during the review process and is available from the authors upon reasonable request. It will be publicly released upon acceptance of the manuscript.)
 # Extract the dataset
 tar -xzf generated_enhanced_6145.tar.gz
 ```
